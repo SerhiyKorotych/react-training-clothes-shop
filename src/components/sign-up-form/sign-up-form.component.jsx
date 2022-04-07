@@ -1,6 +1,6 @@
 import { useState } from "react";
 import FormInput from "../form-input/form-input.component";
-import "./sing-up-form.styles.scss";
+import "./sign-up-form.styles.scss";
 import Button from "../button/button.component";
 const defaultFormFields = {
   displayName: "",
